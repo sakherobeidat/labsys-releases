@@ -1,14 +1,14 @@
-# labsys-releases
+# SakherLIS-releases
 medical laboratory
-# LabSys — Releases
+# SakherLIS — Releases
 
 ملفات تثبيت برنامج LabSys لإدارة المختبرات الطبية (Windows).
-(Installers for LabSys medical laboratory software — Windows)
+(Installers for SakherLIS medical laboratory software — Windows)
 
 ## التنزيل (Download)
 آخر نسخة من صفحة [Releases](../../releases/latest):
-- `LabSys-Setup-x.y.z.exe`: التثبيت العادي (Recommended)
-- `LabSys-Portable-x.y.z.exe`: نسخة محمولة (Portable)
+- `SakherLIS-Setup-x.y.z.exe`: التثبيت العادي (Recommended)
+- `SakherLIS-Portable-x.y.z.exe`: نسخة محمولة (Portable)
 
 ## ملاحظات (Notes)
 - البرنامج غير موقّع رقمياً حالياً. عند ظهور تحذير Windows: **مزيد من المعلومات ← تشغيل على أي حال**.
